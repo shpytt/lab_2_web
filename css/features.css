@@ -1,0 +1,38 @@
+.features__container {
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+
+.features__content {
+    max-width: 450px;
+}
+
+.features__title {
+    font-size: 30px;
+    line-height: 45px;
+    font-weight: 700;
+    color: #0b132a;
+    margin-bottom: 20px;
+}
+
+.features__subtitle {
+    font-size: 16px;
+    line-height: 30px;
+    margin-bottom: 20px;
+}
+
+.features__list {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+.features__item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 14px;
+    color: #4f5665;
+    margin-bottom: 12px;
+}

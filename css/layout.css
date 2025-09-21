@@ -1,0 +1,13 @@
+.wrapper {
+    overflow: hidden;
+}
+
+.page__container,
+.header__container,
+.features__container,
+.testimonials__container,
+.subscribe__container,
+.footer__container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
